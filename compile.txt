@@ -1,0 +1,2 @@
+	﻿cc *.c
+The default password is “1234”.
